@@ -1,2 +1,2 @@
 # corsera-test
-Corsera-test repository
+coursera-test repository
